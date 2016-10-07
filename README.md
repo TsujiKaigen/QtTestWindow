@@ -1,0 +1,2 @@
+# QtTestWindow
+Qtのテスト用ウィンドウ
